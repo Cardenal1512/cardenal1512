@@ -48,8 +48,8 @@ Actualmente perfeccionando mi enfoque en:
 
 ## 📬 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)  
-✉️ afcardenal27l@gmail.com 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/adrianfcardenal)  
+✉️ afcardenal27@gmail.com 
 
 ---
 
